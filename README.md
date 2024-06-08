@@ -6,7 +6,6 @@ Projeto de desenvolvimento Web2: Desenvolver habilidades práticas na criação 
 implementação de APIs RESTful utilizando Node.js, Express, Sequelize, dotenv e MySQL.
 
 Configuração do Ambiente:
-
 Configuração do Projeto:
 
 Estrutura da API:
