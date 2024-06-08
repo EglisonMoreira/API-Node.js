@@ -5,14 +5,10 @@ Nome: Eglison dos Santos Moreira
 Projeto de desenvolvimento Web2: Desenvolver habilidades práticas na criação e 
 implementação de APIs RESTful utilizando Node.js, Express, Sequelize, dotenv e MySQL.
 
-Configuração do Ambiente:
-
-Configuração do Projeto:
-
-Estrutura da API:
-
-Modelagem e Migrações:
-
-Implementação das Rotas:
+Configuração do Ambiente:                                                                                                                                      
+Configuração do Projeto:                                                                                                                                          
+Estrutura da API:                                                                                                                                                 
+Modelagem e Migrações:                                                                                                                                        
+Implementação das Rotas:                                                                                                                                               
 
 link para o projeto no Git:
