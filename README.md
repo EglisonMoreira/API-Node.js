@@ -34,3 +34,29 @@ Sequelize: ORM (Object-Relational Mapping) para interação com o banco de dados
 MySQL: Banco de dados relacional para armazenamento das informações.                                                                                             
 dotenv: Gerenciamento de variáveis de ambiente.
 
+#### Instruções                                                                                                                                                 
+
+Executar Migrações:                                                                                                                                                  
+npx sequelize-cli db:migrate
+
+Iniciar o Servidor:                                                                                                                                                 
+node app.js                                                                                                                                                         
+node index.js
+
+Obs: Você podera escolher uma das opções para iniciar o servidor,                                                                                                  
+sendo que "node app.js" lidarar informações e a porta que o servidor                                                                                                    
+esta rodando, como mostra a baixo.
+
+Executing (default): DROP TABLE IF EXISTS `XXXXXX`;                                                                                                            
+Executing (default): DROP TABLE IF EXISTS `XXXXXXX`;
+...                                                                                                                                                                    
+O servidor está rodando na porta XXXX
+
+Já o "node index.js" lidarar informações somente                                                                                                                      
+da porta em que esta rodando.
+
+Fiz desse modo para que eu possa ter duas opções sendo                                                                                                            
+que a primeira me dará informação assim que eu iniciar o Servidor.                                                                                             
+Diferente da segunda que so me dará informações da porta em que está rodando.                                                                                       
+Você pode usalas como desejar
+
